@@ -1,8 +1,8 @@
 #Concatnate R1 and R2 files for Genepop
 from itertools import izip
 #Enter files
-R1_input = raw_input('Enter R1 file: ')
-R2_input = raw_input('Enter R2 file: ')
+R1_input = raw_input('Enter R1 Genepop file (include .txt): ')
+R2_input = raw_input('Enter R2 Genepop file (include .txt): ')
 R1_open = open(R1_input, 'r')
 R2_open = open(R2_input, 'r')
 
