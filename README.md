@@ -16,3 +16,4 @@ To run the script,
 3. Then enter 'python concatenateGenepop.py' to execute the script.
 4. It will then ask you to enter your Genepop file names (R1 and R2). And hit enter.
 5. The program will start to concatenate two files and print out numbers of loci and individuals in the console.
+6. The out file will be saved as "GenepopInput_R1R2comb.txt" under the folder.
