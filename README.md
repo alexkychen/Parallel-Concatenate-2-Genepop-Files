@@ -15,4 +15,4 @@ To run the script,
 2. Open terminal or command prompt and change path to the folder (using 'cd your_path_to_folder').
 3. Then enter 'python concatenateGenepop.py' to execute the script.
 4. It will then ask you to enter your Genepop file names (R1 and R2). And hit enter.
-5. The program will start concatenate two files and print out numbers of loci and individuals in the console.
+5. The program will start to concatenate two files and print out numbers of loci and individuals in the console.
